@@ -10,11 +10,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianateeq-star&label=Profile%20views&color=0e75b6&style=flat" alt="mianateeq-star" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm in Javascript**
+- 🌱 I’m currently learning **Data Structure and Algorithm in Python**
 
 - 👨‍💻 All of my projects are available at (https://github.com/mr-attique-developer)
 
 - 📫 How to reach me **mr.unknown5264@gmail.com**
+- 
+- 💬 Ask me about **pyhton, Node.js, React...or anything [here](https://www.linkedin.com/in/mr-attique-developer/)**
+- 
 
 - ⚡ Fun fact **Funny Code Maker**
 
@@ -107,12 +110,12 @@
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mr-attique-developer&layout=compact&theme=onedark" />
       </td>
       <td>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mr-attique-developer&show_icons=true&theme=onedark"> 
+   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mr-attique-developer&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="mr-attique-developer's stats" />
       </td>
     </tr>
     <tr>   
       <td>
-        <img width="400px" src="https://streak-stats.demolab.com/?user=mr-attique-developer&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mr-attique-developer&theme=transparent&count_private=true&border_radius=10&locale=en" alt="mr-attique-developer's" />
       </td>
       <td>
          <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-attique-developer&theme=highcontrast&hide_border=true" alt="Repos Per Language">
