@@ -3,16 +3,17 @@
 
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!;+Software+Developer,+Ready+to+Collaborate...+😎&color=3C99D4" />
-</h1>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 - 🌱 I’m currently learning **Data Structure and Algorithm in Python**
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/mr-attique-developer/)**
+
+- 🤝 I’m available for freelancing.
 
 - 📫 How to reach me **mr.unknown5264@gmail.com**
 
