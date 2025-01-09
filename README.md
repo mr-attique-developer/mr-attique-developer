@@ -114,16 +114,9 @@
       </td>
     </tr>
     <tr>   
-      <td>
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mr-attique's streak" src="https://streak-stats.demolab.com/?user=mr-attique-attique&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-<!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
-  </p>
-      </td>
+     <td>
+      <img src="https://streak-stats.demolab.com?user=mr-attique-developer&theme=highcontrast&hide_border=true&border_radius=8&background=000000&stroke=1e90ff&ring=1e90ff&fire=1e90ff&currStreakNum=1e90ff&sideNums=1e90ff&currStreakLabel=1e90ff&sideLabels=1e90ff&dates=ffffff" alt="GitHub Streak">
+    </td>
       <td>
          <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-attique-developer&theme=highcontrast&hide_border=true" alt="Repos Per Language">
       </td>
