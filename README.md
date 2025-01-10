@@ -91,6 +91,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+🔥Stats
  </h2>
 
 </h1>
@@ -100,7 +101,7 @@
 
 
 
-<div align="center">
+<div align="center"> 
   <br>
   <img width="840px" src="https://github-readme-activity-graph.vercel.app/graph?username=mr-attique-developer&custom_title=Muhammad%20Attique%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
   <br>
