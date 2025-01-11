@@ -5,6 +5,8 @@
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 </br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!;+Software+Developer,+Ready+to+Collaborate...+😎&color=3C99D4" />
+
+<hr>
     
 
 [comment]: <> (About Me)
@@ -13,7 +15,7 @@
 
  <br>
 
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">  </p>
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">  </p>
 
 
 
@@ -36,10 +38,10 @@
 <div >
 <br/>
 
-<h1 style="font-size: 24px; font-weight: bold;">🌐 Connect with Me</h1>
-  <p>Discover my work and connect on these platforms!</p>
+<h1 align="center">🌐 Connect with Me</h1>
+  <p align="center">Discover my work and connect on these platforms!</p>
 
-  <table>
+  <table align="center">
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/mr-attique-developer/" target="_blank">
@@ -100,29 +102,27 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🔥Stats
+⚡ Stats ⚡
  </h2>
 </h1>
 
 
 <br>
-<h2 align="center">
-    
-<!--
-Leetcode window
--->
+
 <p align="center">
-    <img style="width: 50%;" src="https://leetcard.jacoblin.cool/Mr_Attique_Developer?theme=chartreuse&font=Noto%20Sans&ext=heatmap" alt="LeetCode Card" />
+  <img style="width: 50%;" align="center" src="https://leetcard.jacoblin.cool/Mr_Attique_Developer?theme=chartreuse&font=Noto%20Sans&ext=heatmap" alt="LeetCode Card" />
+
 </p>
+<p align="center">
+<img style="width: 65%; " src="https://github-readme-activity-graph.vercel.app/graph?username=mr-attique-developer&custom_title=Muhammad%20Attique%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
-</h2>
-
+</p>
 
 
 
 <div align="center"> 
-  <br>
-  <img width="840px" src="https://github-readme-activity-graph.vercel.app/graph?username=mr-attique-developer&custom_title=Muhammad%20Attique%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+    
+
   <br>
   <table>
     <tr>
@@ -147,7 +147,7 @@ Leetcode window
 ## 🐍 My Contributions
 
 </h1>
-<picture>
+<picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
