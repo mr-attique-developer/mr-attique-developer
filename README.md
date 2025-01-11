@@ -103,7 +103,7 @@
 Leetcode window
 -->
 <p align="center">
-    <img style="width: 50%;" src="https://leetcard.jacoblin.cool/Mr_Attique_Developer?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" />
+    <img style="width: 50%;" src="https://leetcard.jacoblin.cool/Mr_Attique_Developer?theme=chartreuse&font=Noto%20Sans&ext=heatmap" alt="LeetCode Card" />
 </p>
 
 </h2>
