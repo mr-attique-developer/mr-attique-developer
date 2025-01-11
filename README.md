@@ -2,11 +2,20 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+</br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!;+Software+Developer,+Ready+to+Collaborate...+😎&color=3C99D4" />
+    
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[comment]: <> (About Me)
+<h2 align="center">__ About Me __</h2>
+<h3 align="center"> 🚀Passionate Software Developer |💻Mastered MERN & Next js, JavaScript, |&nbsp;🛠️&nbsp;Currently, working on Problem Solving skill 📖  |  👥 Ready for Collaboration and <strong>Learning</strong>👨🏻‍💻</h3>
+
+ <br>
+
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">  </p>
+
+
 
 
 - 🌱 I’m currently learning **Data Structure and Algorithm in Python**
@@ -134,8 +143,10 @@ Leetcode window
     </tr>
   </table>
 </div>
-
+<h1 align="center"> 
 ## 🐍 My Contributions
+
+</h1>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -151,10 +162,10 @@ Leetcode window
   />
 </picture>
 
-<hr>
+
 
 <!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif"> -->
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
