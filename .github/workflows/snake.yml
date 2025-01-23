@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # ✅ Force using Ubuntu 22.04 instead of latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
