@@ -145,27 +145,10 @@
 </div>
 
  <h1 align="center"> 
-### 🐍 A Snake Eating My Contributions
-![snake gif](https://github.com/mr-attique-developer/mr-attique-developer/blob/output/github-contribution-grid-snake.svg)
- </h1>
-<!-- <h1 align="center"> 
-## 🐍 My Contributions
+### 🐍 My GitHub Contributions Snake
 
-</h1>
-<picture align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture> -->
+![Snake animation](https://mr-attique-developer.github.io/mr-attique-developer/dist/github-contribution-grid-snake.svg)
+
 
 
 
