@@ -1,10 +1,11 @@
-name: Generate Snake
-
+name: Generate Snake Game Contribution Grid
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight (UTC)
-
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:
+
+permissions:
+  contents: write  # ✅ This grants write access to push files
 
 jobs:
   generate:
@@ -13,16 +14,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: "mr-attique-developer"
-          outputs: "github-contribution-grid-snake.svg"
+          outputs: "dist/github-contribution-grid-snake.svg"
 
-      - name: Push Snake Game to GitHub
+      - name: Push the Snake Animation
         run: |
           git config --global user.email "mr.unknown5264@gmail.com"
           git config --global user.name "mr-attique-developer"
-          git add .
-          git commit -m "Updated snake game contribution"
+          mkdir -p dist
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Updated snake contribution graph"
           git push
