@@ -143,7 +143,12 @@
     </tr>
   </table>
 </div>
-<h1 align="center"> 
+
+ <h1 align="center"> 
+### 🐍 A Snake Eating My Contributions
+![snake gif](https://github.com/mr-attique-developer/mr-attique-developer/blob/output/github-contribution-grid-snake.svg)
+ </h1>
+<!-- <h1 align="center"> 
 ## 🐍 My Contributions
 
 </h1>
@@ -160,7 +165,7 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
 
 
 
