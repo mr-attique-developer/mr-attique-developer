@@ -14,17 +14,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: "mr-attique-developer"
-          outputs: "dist/github-contribution-grid-snake.svg"
-
-      - name: Push the Snake Animation
+      - name: Configure Git
         run: |
           git config --global user.email "mr.unknown5264@gmail.com"
           git config --global user.name "mr-attique-developer"
-          mkdir -p dist
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Updated snake contribution graph"
-          git push
+
+      - name: Generate Snake Animation
+        run: mkdir -p dist && touch dist/github-contribution-grid-snake.svg
+
+      - name: Commit and Push if Changes Exist
+        run: |
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Updated snake contribution graph"
+            git push
+          else
+            echo "No changes to commit"
+          fi
