@@ -72,24 +72,28 @@
 
 <div>
     <div>
-        <h2 align="center">Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+        <h2 align="center">Skills  
+            <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+        </h2>
         <div align="center">
-            <img src="https://skillicons.dev/icons?i=vscode," />
-             <br>
-            <img src="https://skillicons.dev/icons?i=git,github,gitlab," />
-             <br>
-            <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express"/><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-             <br>
-            <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,figma," />
-             <br>
-            <img src="https://skillicons.dev/icons?i=npm,redux,sass,postman,ai" />
-             <br>
-            <img src="https://skillicons.dev/icons?i=nextjs,firebase,netlify," />
-             <br>
-            <img src="https://skillicons.dev/icons?i=ps," />
+            <img src="https://skillicons.dev/icons?i=vscode">
+        </br>
+            <img src="https://skillicons.dev/icons?i=git,github,gitlab">
+             </br>
+            <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,next">
+             </br>
+            <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind">
+             </br>
+            <img src="https://skillicons.dev/icons?i=npm,redux,sass,postman,ai">
+             </br>
+            <img src="https://skillicons.dev/icons?i=nextjs,firebase,netlify">
+             </br>
+            <img src="https://skillicons.dev/icons?i=ps">
         </div>
     </div>
 </div>
+
+
 
 <br>
  
