@@ -4,14 +4,18 @@
 <!-- GIF HEADER -->
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 </br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!+Software+Developer;+90+leetcode+problems+solved+with+python;+Ready+to+Collaborate...+😎&color=3C99D4" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!+Software+Developer;+90+LeetCode+problems+solved+in+Python+and+JavaScript;+MERN+Stack+Developer;+Passionate+about+DSA+and+Optimized+Algorithms!+🚀&color=3C99D4" />
 
 <hr>
-    
 
-[comment]: <> (About Me)
-<h2 align="center">__ About Me __</h2>
-<h3 align="center"> 🚀Passionate Software Developer |💻Mastered MERN & Next js, JavaScript, |&nbsp;🛠️&nbsp;Currently, working on Problem Solving skill 📖  |  👥 Ready for Collaboration and <strong>Learning</strong>👨🏻‍💻</h3>
+<!-- About Me Section -->
+<h2 align="center">🚀 About Me</h2>
+<h3 align="center">
+💻 Passionate Software Developer | ⚡ Mastered MERN Stack & Next.js |  
+📚 Solved 90+ LeetCode Problems in Python & JavaScript |  
+🛠️ Strengthening DSA Skills & Algorithm Optimization |  
+👥 Open for Collaborations & Learning New Technologies! 🚀  
+</h3>
 
  <br>
 
@@ -20,16 +24,17 @@
 
 
 
-- 🌱 I’m currently learning **Data Structure and Algorithm in Python**
 
+
+
+- ### 📊 **LeetCode & DSA Progress**
+- 🔥 Solved **90+ problems** (Easy & Medium) in **Python & JavaScript**  
+- ⚡ Actively improving **algorithm efficiency** & **DSA problem-solving skills**  
+- 🚀 Working on mastering **Graph Algorithms, Dynamic Programming, and Recursion**  
 - 👨‍💻 All of my projects are available at **[here](https://github.com/mr-attique-developer/)**
-
 - 🤝 I’m available for freelancing.
-
 - 📫 How to reach me **mr.unknown5264@gmail.com**
-
 - 💬 Ask me about **pyhton, Node.js, React...or anything [here](https://www.linkedin.com/in/mr-attique-developer/)**
-
 - ⚡ Fun fact **Funny Code Maker**
 
 [comment]: <> (contact Me)
