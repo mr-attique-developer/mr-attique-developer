@@ -4,7 +4,7 @@
 <!-- GIF HEADER -->
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 </br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!;+Software+Developer,+Ready+to+Collaborate...+😎&color=3C99D4" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!+Software+Developer;+90+leetcode+problems+solved+with+python;+Ready+to+Collaborate...+😎&color=3C99D4" />
 
 <hr>
     
