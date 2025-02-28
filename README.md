@@ -1,5 +1,4 @@
-[comment]: <> (Animated Intro.)
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+![Header GIF](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
 <!-- GIF HEADER -->
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
@@ -8,72 +7,51 @@
 
 <hr>
 
-<!-- About Me Section -->
-<h2 align="center">🚀 About Me</h2>
-<h3 align="center">
-💻 Passionate Software Developer | ⚡ Mastered MERN Stack & Next.js |  
-📚 Solved 90+ LeetCode Problems in Python & JavaScript |  
-🛠️ Strengthening DSA Skills & Algorithm Optimization |  
-👥 Open for Collaborations & Learning New Technologies! 🚀  
-</h3>
+## 🚀 About Me
 
- <br>
+```yaml
+- 💻 Passionate Software Developer
+- ⚡ MERN Stack & Next.js Developer
+- 📚 Solved 90+ LeetCode Problems (Python & JavaScript)
+- 🛠️ Strengthening DSA & Algorithm Optimization
+- 🚀 Mastering Graph Algorithms, DP, and Recursion
+- 👥 Open to Collaborations & Learning New Technologies
+```
 
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">  </p>
+<p align="left">
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+</p>
 
-
-
-
-
-
-
-- ### 📊 **LeetCode & DSA Progress**
-- 🔥 Solved **90+ problems** (Easy & Medium) in **Python & JavaScript**  
+### 📊 **LeetCode & DSA Progress**
+- 🔥 **Solved 90+ problems** (Easy & Medium) in **Python & JavaScript**  
 - ⚡ Actively improving **algorithm efficiency** & **DSA problem-solving skills**  
 - 🚀 Working on mastering **Graph Algorithms, Dynamic Programming, and Recursion**  
-- 👨‍💻 All of my projects are available at **[here](https://github.com/mr-attique-developer/)**
-- 🤝 I’m available for freelancing.
-- 📫 How to reach me **mr.unknown5264@gmail.com**
-- 💬 Ask me about **pyhton, Node.js, React...or anything [here](https://www.linkedin.com/in/mr-attique-developer/)**
-- ⚡ Fun fact **Funny Code Maker**
+- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/mr-attique-developer/)**  
+- 🤝 Available for **freelancing & open-source contributions**  
+- 📫 Reach me at **mr.unknown5264@gmail.com**  
+- 💬 Ask me about **Python, Node.js, React, or DSA!** [**Let's Connect!**](https://www.linkedin.com/in/mr-attique-developer/)  
+- ⚡ Fun fact: **I love debugging more than coding! 😆**  
 
-[comment]: <> (contact Me)
+---
 
-<div>
-<div >
-<br/>
+## 🌐 Connect with Me
 
-<h1 align="center">🌐 Connect with Me</h1>
-  <p align="center">Discover my work and connect on these platforms!</p>
+<p align="center">Discover my work and connect on these platforms!</p>
 
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/mr-attique-developer/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://leetcode.com/u/Mr_Attique_Developer/" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-222222?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mr-attique-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://ecommerce-mern-nine-iota.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Ecommerce">
-        </a>
-      </td>
-    </tr>
-   
-  </table>
-</div>
+  <a href="https://leetcode.com/u/Mr_Attique_Developer/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-222222?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
+  <a href="mailto:mr.unknown5264@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+  </a>
+  <a href="https://ecommerce-mern-nine-iota.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 <div>
     <div>
