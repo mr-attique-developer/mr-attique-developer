@@ -3,7 +3,7 @@
 <!-- GIF HEADER -->
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 </br>
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!+Software+Developer;+100+LeetCode+problems+solved+in+Python+and+JavaScript;+MERN+Stack+Developer;+Passionate+about+DSA+and+Optimized+Algorithms!+🚀&color=3C99D4" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=40&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!+Software+Developer;+100+LeetCode+problems+solved;+In+Python+and+JavaScript;+MERN+Stack+Developer;+Passionate+about+DSA+and+Optimized+Algorithms!+🚀&color=3C99D4" />
 
 <hr>
 
@@ -12,7 +12,7 @@
 ```yaml
 - 💻 Passionate Software Developer
 - ⚡ MERN Stack & Next.js Developer
-- 📚 Solved 90+ LeetCode Problems (Python & JavaScript)
+- 📚 Solved 100+ LeetCode Problems (Python & JavaScript)
 - 🛠️ Strengthening DSA & Algorithm Optimization
 - 🚀 Mastering Graph Algorithms, DP, and Recursion
 - 👥 Open to Collaborations & Learning New Technologies
