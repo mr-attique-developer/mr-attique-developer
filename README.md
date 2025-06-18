@@ -7,7 +7,7 @@
 
 <hr>
 
-## 🚀 About Med
+## 🚀 About Me
 
 ```yaml
 - 💻 Passionate Software Developer
